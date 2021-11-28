@@ -7,8 +7,7 @@
 </h3>
 <br />
 
-
-### About ✍️
- Created a UI Quiz using HTML, CSS, Javascript. 
- It will display the number of questions marked correctly with the total score.
+<h3 align="center"> About ✍️ </h3>
+ <i>Created a UI Quiz using HTML, CSS, Javascript. 
+ It will display the number of questions marked correctly with the total score.</i>
 
