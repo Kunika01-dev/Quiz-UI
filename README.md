@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-          Live Project : https://https://quiz01-ui.netlify.app//
+          Live Project : https://quiz01-ui.netlify.app//
 </h3>
 <br />
 
